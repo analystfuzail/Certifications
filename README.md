@@ -80,8 +80,7 @@ Validates strong proficiency in solving SQL problems, ranging from simple querie
 
 
 ## 3.🎓 Power BI(Advanced DAX) Certificate
-**Issued by:** Udemy 
-
+**Issued by:** Udemy    
 **Year:** 2025  
 **Credential:** [View Certificate](https://ude.my/UC-df577ae2-64af-405e-9de7-599a11799040)  
 
@@ -122,8 +121,7 @@ I can now:
 
 
 ## 4.🎓 GenAI Powered Data Analytics
-**Issued by:** Forage
-
+**Issued by:** Forage         
 **Year:** 2025  
 **Credential:** [View Certificate](https://github.com/analystfuzail/Certifications)  
 
@@ -161,8 +159,7 @@ The Tata Data Analytics Job Simulation is a self-paced virtual experience in whi
 ---
 
 ## 5.🎓 Oracle Cloud Infrastructure AI Foundations
-**Issued by:** Oracle
-
+**Issued by:** Oracle              
 **Year:** 2025  
 **Credential:** [View Certificate](https://github.com/analystfuzail/Certifications)  
 
