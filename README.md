@@ -61,7 +61,7 @@ Highlights my ability to write **efficient SQL queries**, a key skill for analyt
 ---
 
 
-### 3.🎓 Power BI(Advanced DAX) Certificate - Udemy
+### 3.🎓 Power BI(Advanced DAX) Certificate
 **Issued by:** Udemy 
 **Year:** 2025  
 **Credential:** [View Certificate](https://ude.my/UC-df577ae2-64af-405e-9de7-599a11799040)  
