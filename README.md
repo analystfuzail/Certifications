@@ -18,22 +18,29 @@ A comprehensive program covering **data analysis fundamentals** using Python, SQ
 
 #### 🧠 Skills Gained
 
-- Python for Data Analysis (Pandas, NumPy, Matplotlib, Seaborn)  
-- SQL for querying and optimizing databases  
-- Excel for advanced analytics & reporting  
-- Data Visualization with Power BI and Python  
-- Data Wrangling, Cleaning, and Transformation  
+- Python for Data Analysis (Pandas, NumPy, Matplotlib, Seaborn)
+  
+- SQL for querying and optimizing databases
+  
+- Excel for advanced analytics & reporting
+  
+- Data Visualization with Power BI and Python
+  
+- Data Wrangling, Cleaning, and Transformation
+  
 - Exploratory Data Analysis and Statistical Techniques  
 
 #### 🚀 How This Improved My Skills
 
 ✅Exploratory Data Analysis on real-world datasets  
+
 ✅Interactive dashboards in Power BI and Excel  
+
 ✅SQL queries for business insights  
+
 ✅Data storytelling reports  
 
-#### 🏆 Why This Matters  
-Demonstrates readiness for **data analyst roles** by proving ability to extract insights and communicate findings effectively.  
+
 
 ---
 
@@ -48,17 +55,24 @@ Validates strong proficiency in solving SQL problems, ranging from simple querie
 
 #### 🧠 Skills Gained
 
-- Joins (INNER, OUTER, CROSS, SELF)  
-- Subqueries and Nested Queries  
-- Window Functions (RANK, DENSE_RANK, ROW_NUMBER)  
-- Aggregation & Grouping (GROUP BY, HAVING, CUBE, ROLLUP)  
-- Query Optimization Techniques  
+- Joins (INNER, OUTER, CROSS, SELF)
+  
+- Subqueries and Nested Queries
+  
+- Window Functions (RANK, DENSE_RANK, ROW_NUMBER)
+  
+- Aggregation & Grouping (GROUP BY, HAVING, CUBE, ROLLUP)
+  
+- Query Optimization Techniques
+  
 - Working with Dates, Strings, and Case Expressions  
 
 #### 🚀 How This Improved My Skills
 
 ✅150+ SQL challenges solved (Easy → Hard)  
+
 ✅Real-world datasets from e-commerce, banking, and HR domains  
+
 ✅Wrote optimized queries for insights  
 
 
@@ -76,11 +90,16 @@ Power BI DAX Mastery: Advanced Formulas and Data Analysis is an in-depth course 
 
 #### 🧠 Skills Gained
 
--Advanced DAX Formulas: Proficiency in creating complex measures and calculated columns using functions like CALCULATE(), FILTER(),         RANKX(), and DATEADD().
+-Advanced DAX Formulas: Proficiency in creating complex measures and calculated columns using functions like CALCULATE(), FILTER(), RANKX(), and DATEADD().
+
 -Data Modeling Expertise: Ability to design optimized star schemas, manage relationships, and handle many-to-many relationships.
+
 -Time Intelligence Analysis: Mastery of YoY, MoM, rolling averages, and cumulative totals for business trend tracking.
--Dynamic KPI Creation: Building metrics such as Customer Lifetime Value (CLV), Customer Acquisition Cost (CAC), and Promotion               Effectiveness.
+
+-Dynamic KPI Creation: Building metrics such as Customer Lifetime Value (CLV), Customer Acquisition Cost (CAC), and Promotion Effectiveness.
+
 -Performance Optimization: Improving DAX efficiency through context understanding and query tuning.
+
 -Analytical Problem Solving: Applying DAX to scenarios like inventory analysis, cohort tracking, and basket analysis.
 
 #### 🚀 How This Improved My Skills
