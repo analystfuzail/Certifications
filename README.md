@@ -5,17 +5,19 @@ Each certification highlights my commitment to continuous learning and developin
 
 ---
 
-## 🏆 Certifications
+## 🏆 List of Certificates
 
 ### 1. 🎓 IBM Data Analyst Professional Certificate  
 **Issued by:** IBM (via Coursera)  
 **Year:** 2025  
 **Credential:** [View Certificate](https://github.com/analystfuzail/IBM_Data_analyst-certificate)  
 
-#### 📌 Overview  
+#### 🎓 Course Overview  
+
 A comprehensive program covering **data analysis fundamentals** using Python, SQL, Excel, and Power BI.  
 
-#### 🛠 Skills Gained  
+#### 🧠 Skills Gained
+
 - Python for Data Analysis (Pandas, NumPy, Matplotlib, Seaborn)  
 - SQL for querying and optimizing databases  
 - Excel for advanced analytics & reporting  
@@ -23,11 +25,12 @@ A comprehensive program covering **data analysis fundamentals** using Python, SQ
 - Data Wrangling, Cleaning, and Transformation  
 - Exploratory Data Analysis and Statistical Techniques  
 
-#### 📊 Projects Completed  
-- Exploratory Data Analysis on real-world datasets  
-- Interactive dashboards in Power BI and Excel  
-- SQL queries for business insights  
-- Data storytelling reports  
+#### 🚀 How This Improved My Skills
+
+✅Exploratory Data Analysis on real-world datasets  
+✅Interactive dashboards in Power BI and Excel  
+✅SQL queries for business insights  
+✅Data storytelling reports  
 
 #### 🏆 Why This Matters  
 Demonstrates readiness for **data analyst roles** by proving ability to extract insights and communicate findings effectively.  
@@ -39,10 +42,12 @@ Demonstrates readiness for **data analyst roles** by proving ability to extract 
 **Year:** 2025  
 **Credential:** [View Certificate](https://www.hackerrank.com/certificates/872a8d439a61)  
 
-#### 📌 Overview  
+#### 🎓 Course Overview 
+
 Validates strong proficiency in solving SQL problems, ranging from simple queries to complex analytics.  
 
-#### 🛠 Skills Gained  
+#### 🧠 Skills Gained
+
 - Joins (INNER, OUTER, CROSS, SELF)  
 - Subqueries and Nested Queries  
 - Window Functions (RANK, DENSE_RANK, ROW_NUMBER)  
@@ -50,13 +55,12 @@ Validates strong proficiency in solving SQL problems, ranging from simple querie
 - Query Optimization Techniques  
 - Working with Dates, Strings, and Case Expressions  
 
-#### 📊 Practice & Problems Solved  
-- 150+ SQL challenges solved (Easy → Hard)  
-- Real-world datasets from e-commerce, banking, and HR domains  
-- Wrote optimized queries for insights  
+#### 🚀 How This Improved My Skills
 
-#### 🏆 Why This Matters  
-Highlights my ability to write **efficient SQL queries**, a key skill for analytics, reporting, and database management.  
+✅150+ SQL challenges solved (Easy → Hard)  
+✅Real-world datasets from e-commerce, banking, and HR domains  
+✅Wrote optimized queries for insights  
+
 
 ---
 
@@ -90,12 +94,15 @@ I can now:
 ✅Apply best practices in data modeling for faster, cleaner, and more scalable reports.
 ✅This certification strengthened my ability to deliver data-driven insights and improved my confidence in solving real-world analytics     challenges using DAX.
 
-### 3.🎓 GenAI Powered Data Analytics
+---
+
+
+### 4.🎓 GenAI Powered Data Analytics
 **Issued by:** Forage
 **Year:** 2025  
 **Credential:** [View Certificate](https://github.com/analystfuzail/Certifications)  
 
-#### 🎓 Overview
+#### 🎓 Course Overview
 
 The Tata Data Analytics Job Simulation is a self-paced virtual experience in which participants step into the role of a data analyst at Tata Group. You work through realistic business scenarios — exploring data, identifying insights, and making strategic recommendations — to help the company turn raw data into actionable business decisions. 
 
@@ -116,6 +123,37 @@ The Tata Data Analytics Job Simulation is a self-paced virtual experience in whi
 ✅Visualising and presenting data in a way that resonates with decision-makers.
 ✅Operating under a real-world corporate style workflow — from data preparation to stakeholder presentation.
 ✅This experience strengthened both my technical analysis skills and my ability to deliver insights that drive business impact.
+
+---
+
+### 5.🎓 Oracle Cloud Infrastructure AI Foundations
+**Issued by:** Udemy 
+**Year:** 2025  
+**Credential:** [View Certificate](https://github.com/analystfuzail/Certifications)  
+
+#### 🎓 Course Overview
+
+The Oracle Cloud Infrastructure (OCI) AI Foundations course is a beginner-friendly, self-paced program designed to introduce learners to the fundamentals of artificial intelligence (AI), machine learning (ML), deep learning, and generative AI — with a special focus on how these technologies are applied within the Oracle Cloud environment. It covers core AI concepts, OCI’s AI stack and services (vision, language, anomaly detection, forecasting, large language models), and the architecture required for AI workloads on the cloud. 
+
+
+#### 🧠 Skills Gained
+
+-Understanding of AI, ML and Deep Learning fundamentals (supervised vs unsupervised, neural networks, etc.) 
+-Knowledge of how to use OCI’s AI-first services (such as Vision, Language, Speech, Anomaly Detection, Forecasting) and working with large language models (LLMs) in a cloud environment. 
+-Familiarity with cloud architecture for AI workloads: compute, storage, networking, data science services, AI deployment & monitoring on OCI. 
+-Awareness of responsible AI practices (governance, explainability, bias mitigation) and performance/cost optimization in AI deployments. 
+
+
+#### 🚀 How This Improved My Skills
+
+✅Completing this course significantly enhanced my ability to think and act as an AI-enabled cloud practitioner. I am now able to:
+✅Confidently interpret and apply AI/ML concepts in real business and cloud contexts — not just theoretically.
+✅Leverage cloud-native AI services (OCI) to design and implement intelligent solutions such as image/text classification, anomaly detection, forecasting, and generative tasks.
+✅Understand the full lifecycle of AI solutions on the cloud: from data ingestion/storage, model building/deployment, to monitoring & governance — giving me an end-to-end view.
+✅Integrate AI-driven insights into analytics and decision-making workflows (which complements my previous experience in data analytics and DAX modelling).
+✅Advocate for and apply responsible, optimized AI designs — considering cost, performance and ethics.
+
+---
 
 ## 📌 Note  
 This repository will be continuously updated as I complete new certifications and achievements.  
