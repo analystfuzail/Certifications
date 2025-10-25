@@ -7,16 +7,16 @@ Each certification highlights my commitment to continuous learning and developin
 
 ## 🏆 List of Certificates
 
-### 1. 🎓 IBM Data Analyst Professional Certificate  
+## 1. 🎓 IBM Data Analyst Professional Certificate  
 **Issued by:** IBM (via Coursera)  
 **Year:** 2025  
 **Credential:** [View Certificate](https://github.com/analystfuzail/IBM_Data_analyst-certificate)  
 
-#### 🎓 Course Overview  
+### 🎓 Course Overview  
 
 A comprehensive program covering **data analysis fundamentals** using Python, SQL, Excel, and Power BI.  
 
-#### 🧠 Skills Gained
+### 🧠 Skills Gained
 
 - Python for Data Analysis (Pandas, NumPy, Matplotlib, Seaborn)
   
@@ -30,7 +30,7 @@ A comprehensive program covering **data analysis fundamentals** using Python, SQ
   
 - Exploratory Data Analysis and Statistical Techniques  
 
-#### 🚀 How This Improved My Skills
+### 🚀 How This Improved My Skills
 
 ✅Exploratory Data Analysis on real-world datasets  
 
@@ -44,16 +44,16 @@ A comprehensive program covering **data analysis fundamentals** using Python, SQ
 
 ---
 
-### 2. 🎓 SQL (Advanced) Certificate – HackerRank  
+## 2. 🎓 SQL (Advanced) Certificate – HackerRank  
 **Issued by:** HackerRank  
 **Year:** 2025  
 **Credential:** [View Certificate](https://www.hackerrank.com/certificates/872a8d439a61)  
 
-#### 🎓 Course Overview 
+### 🎓 Course Overview 
 
 Validates strong proficiency in solving SQL problems, ranging from simple queries to complex analytics.  
 
-#### 🧠 Skills Gained
+### 🧠 Skills Gained
 
 - Joins (INNER, OUTER, CROSS, SELF)
   
@@ -67,7 +67,7 @@ Validates strong proficiency in solving SQL problems, ranging from simple querie
   
 - Working with Dates, Strings, and Case Expressions  
 
-#### 🚀 How This Improved My Skills
+### 🚀 How This Improved My Skills
 
 ✅150+ SQL challenges solved (Easy → Hard)  
 
@@ -79,16 +79,16 @@ Validates strong proficiency in solving SQL problems, ranging from simple querie
 ---
 
 
-### 3.🎓 Power BI(Advanced DAX) Certificate
+## 3.🎓 Power BI(Advanced DAX) Certificate
 **Issued by:** Udemy 
 **Year:** 2025  
 **Credential:** [View Certificate](https://ude.my/UC-df577ae2-64af-405e-9de7-599a11799040)  
 
-#### 🎓 Course Overview
+### 🎓 Course Overview
 
 Power BI DAX Mastery: Advanced Formulas and Data Analysis is an in-depth course focused on mastering Data Analysis Expressions (DAX) to perform advanced data modeling and analytics in Power BI. The course covers practical business scenarios that teach how to design robust data models, create dynamic measures, and extract actionable insights using advanced DAX functions. It bridges the gap between intermediate and expert-level Power BI users by emphasizing real-world data problem-solving and performance optimization.
 
-#### 🧠 Skills Gained
+### 🧠 Skills Gained
 
 -Advanced DAX Formulas: Proficiency in creating complex measures and calculated columns using functions like CALCULATE(), FILTER(), RANKX(), and DATEADD().
 
@@ -102,7 +102,7 @@ Power BI DAX Mastery: Advanced Formulas and Data Analysis is an in-depth course 
 
 -Analytical Problem Solving: Applying DAX to scenarios like inventory analysis, cohort tracking, and basket analysis.
 
-#### 🚀 How This Improved My Skills
+### 🚀 How This Improved My Skills
 
 Completing this course significantly deepened my understanding of Power BI’s analytical layer — particularly how DAX operates within row, filter, and evaluation contexts.
 I can now:
@@ -120,17 +120,17 @@ I can now:
 ---
 
 
-### 4.🎓 GenAI Powered Data Analytics
+## 4.🎓 GenAI Powered Data Analytics
 **Issued by:** Forage
 **Year:** 2025  
 **Credential:** [View Certificate](https://github.com/analystfuzail/Certifications)  
 
-#### 🎓 Course Overview
+### 🎓 Course Overview
 
 The Tata Data Analytics Job Simulation is a self-paced virtual experience in which participants step into the role of a data analyst at Tata Group. You work through realistic business scenarios — exploring data, identifying insights, and making strategic recommendations — to help the company turn raw data into actionable business decisions. 
 
 
-#### 🧠 Skills Gained
+### 🧠 Skills Gained
 
 -Data exploration and cleaning: inspecting, transforming, and preparing data for analysis.
 
@@ -142,7 +142,7 @@ The Tata Data Analytics Job Simulation is a self-paced virtual experience in whi
 
 -Exposure to enterprise analytics culture: working through tasks representative of what Tata Group data professionals do.
 
-#### 🚀 How This Improved My Skills
+### 🚀 How This Improved My Skills
 
 ✅Completing this simulation enhanced my analytical toolkit by reinforcing how to think like a business data analyst — not just crunch numbers, but ask the right questions, analyse data    with purpose, and communicate clearly.
 
@@ -158,17 +158,17 @@ The Tata Data Analytics Job Simulation is a self-paced virtual experience in whi
 
 ---
 
-### 5.🎓 Oracle Cloud Infrastructure AI Foundations
+## 5.🎓 Oracle Cloud Infrastructure AI Foundations
 **Issued by:** Udemy 
 **Year:** 2025  
 **Credential:** [View Certificate](https://github.com/analystfuzail/Certifications)  
 
-#### 🎓 Course Overview
+### 🎓 Course Overview
 
 The Oracle Cloud Infrastructure (OCI) AI Foundations course is a beginner-friendly, self-paced program designed to introduce learners to the fundamentals of artificial intelligence (AI), machine learning (ML), deep learning, and generative AI — with a special focus on how these technologies are applied within the Oracle Cloud environment. It covers core AI concepts, OCI’s AI stack and services (vision, language, anomaly detection, forecasting, large language models), and the architecture required for AI workloads on the cloud. 
 
 
-#### 🧠 Skills Gained
+### 🧠 Skills Gained
 
 -Understanding of AI, ML and Deep Learning fundamentals (supervised vs unsupervised, neural networks, etc.) 
 
@@ -179,7 +179,7 @@ The Oracle Cloud Infrastructure (OCI) AI Foundations course is a beginner-friend
 -Awareness of responsible AI practices (governance, explainability, bias mitigation) and performance/cost optimization in AI deployments. 
 
 
-#### 🚀 How This Improved My Skills
+### 🚀 How This Improved My Skills
 
 ✅Completing this course significantly enhanced my ability to think and act as an AI-enabled cloud practitioner.
 
