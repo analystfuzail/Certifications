@@ -108,10 +108,14 @@ Completing this course significantly deepened my understanding of Power BI’s a
 I can now:
 
 ✅Build smarter, more dynamic dashboards that adapt to user selections.
+
 ✅Create advanced business metrics directly in Power BI without relying solely on SQL.
+
 ✅Perform complex time-based and scenario analyses, enhancing my data storytelling ability.
+
 ✅Apply best practices in data modeling for faster, cleaner, and more scalable reports.
-✅This certification strengthened my ability to deliver data-driven insights and improved my confidence in solving real-world analytics     challenges using DAX.
+
+✅This certification strengthened my ability to deliver data-driven insights and improved my confidence in solving real-world analytics challenges using DAX.
 
 ---
 
@@ -129,18 +133,27 @@ The Tata Data Analytics Job Simulation is a self-paced virtual experience in whi
 #### 🧠 Skills Gained
 
 -Data exploration and cleaning: inspecting, transforming, and preparing data for analysis.
+
 -Business-driven analytics: identifying key questions and framing insights in a business context.
+
 -Use of analytics tools and techniques: performing quantitative analysis, visualizing results, and communicating findings to stakeholders.
+
 -Insight communication: translating data insights into recommendations for leadership (CEOs/CMOs) and using storytelling to drive decisions.
+
 -Exposure to enterprise analytics culture: working through tasks representative of what Tata Group data professionals do.
 
 #### 🚀 How This Improved My Skills
 
-✅Completing this simulation enhanced my analytical toolkit by reinforcing how to think like a business data analyst — not just crunch numbers, but ask the right questions, analyse data    with purpose, and communicate clearly. I grew more confident in:
+✅Completing this simulation enhanced my analytical toolkit by reinforcing how to think like a business data analyst — not just crunch numbers, but ask the right questions, analyse data    with purpose, and communicate clearly.
+
 ✅Asking strategic business questions before diving into data.
+
 ✅Structuring analyses that deliver actionable insights rather than just descriptive reports.
+
 ✅Visualising and presenting data in a way that resonates with decision-makers.
+
 ✅Operating under a real-world corporate style workflow — from data preparation to stakeholder presentation.
+
 ✅This experience strengthened both my technical analysis skills and my ability to deliver insights that drive business impact.
 
 ---
@@ -158,18 +171,26 @@ The Oracle Cloud Infrastructure (OCI) AI Foundations course is a beginner-friend
 #### 🧠 Skills Gained
 
 -Understanding of AI, ML and Deep Learning fundamentals (supervised vs unsupervised, neural networks, etc.) 
--Knowledge of how to use OCI’s AI-first services (such as Vision, Language, Speech, Anomaly Detection, Forecasting) and working with large language models (LLMs) in a cloud environment. 
+
+-Knowledge of how to use OCI’s AI-first services (such as Vision, Language, Speech, Anomaly Detection, Forecasting) and working with large language models (LLMs) in a cloud environment.
+
 -Familiarity with cloud architecture for AI workloads: compute, storage, networking, data science services, AI deployment & monitoring on OCI. 
+
 -Awareness of responsible AI practices (governance, explainability, bias mitigation) and performance/cost optimization in AI deployments. 
 
 
 #### 🚀 How This Improved My Skills
 
-✅Completing this course significantly enhanced my ability to think and act as an AI-enabled cloud practitioner. I am now able to:
+✅Completing this course significantly enhanced my ability to think and act as an AI-enabled cloud practitioner.
+
 ✅Confidently interpret and apply AI/ML concepts in real business and cloud contexts — not just theoretically.
+
 ✅Leverage cloud-native AI services (OCI) to design and implement intelligent solutions such as image/text classification, anomaly detection, forecasting, and generative tasks.
+
 ✅Understand the full lifecycle of AI solutions on the cloud: from data ingestion/storage, model building/deployment, to monitoring & governance — giving me an end-to-end view.
+
 ✅Integrate AI-driven insights into analytics and decision-making workflows (which complements my previous experience in data analytics and DAX modelling).
+
 ✅Advocate for and apply responsible, optimized AI designs — considering cost, performance and ethics.
 
 ---
