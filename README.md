@@ -90,5 +90,32 @@ I can now:
 ✅Apply best practices in data modeling for faster, cleaner, and more scalable reports.
 ✅This certification strengthened my ability to deliver data-driven insights and improved my confidence in solving real-world analytics     challenges using DAX.
 
+### 3.🎓 GenAI Powered Data Analytics
+**Issued by:** Forage
+**Year:** 2025  
+**Credential:** [View Certificate](https://github.com/analystfuzail/Certifications)  
+
+#### 🎓 Overview
+
+The Tata Data Analytics Job Simulation is a self-paced virtual experience in which participants step into the role of a data analyst at Tata Group. You work through realistic business scenarios — exploring data, identifying insights, and making strategic recommendations — to help the company turn raw data into actionable business decisions. 
+
+
+#### 🧠 Skills Gained
+
+-Data exploration and cleaning: inspecting, transforming, and preparing data for analysis.
+-Business-driven analytics: identifying key questions and framing insights in a business context.
+-Use of analytics tools and techniques: performing quantitative analysis, visualizing results, and communicating findings to stakeholders.
+-Insight communication: translating data insights into recommendations for leadership (CEOs/CMOs) and using storytelling to drive decisions.
+-Exposure to enterprise analytics culture: working through tasks representative of what Tata Group data professionals do.
+
+#### 🚀 How This Improved My Skills
+
+✅Completing this simulation enhanced my analytical toolkit by reinforcing how to think like a business data analyst — not just crunch numbers, but ask the right questions, analyse data    with purpose, and communicate clearly. I grew more confident in:
+✅Asking strategic business questions before diving into data.
+✅Structuring analyses that deliver actionable insights rather than just descriptive reports.
+✅Visualising and presenting data in a way that resonates with decision-makers.
+✅Operating under a real-world corporate style workflow — from data preparation to stakeholder presentation.
+✅This experience strengthened both my technical analysis skills and my ability to deliver insights that drive business impact.
+
 ## 📌 Note  
 This repository will be continuously updated as I complete new certifications and achievements.  
